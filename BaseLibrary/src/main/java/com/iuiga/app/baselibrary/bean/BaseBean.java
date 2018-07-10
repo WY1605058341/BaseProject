@@ -1,4 +1,4 @@
-package com.example.think.baseproject.model;
+package com.iuiga.app.baselibrary.bean;
 
 public class BaseBean {
     private String id;

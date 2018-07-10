@@ -1,4 +1,4 @@
-package com.example.think.baseproject.base;
+package com.iuiga.app.baselibrary.fragment;
 
 public class BaseFragment {
 

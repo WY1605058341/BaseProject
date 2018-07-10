@@ -4,7 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.example.think.baseproject.base.BaseActivity;
+import com.iuiga.app.baselibrary.activity.BaseActivity;
+
 
 public class MainActivity extends BaseActivity {
 
@@ -12,6 +13,6 @@ public class MainActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.e("Log", "weiyu");
+       
     }
 }

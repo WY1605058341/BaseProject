@@ -1,4 +1,7 @@
 package com.example.think.baseproject;
 
-public class MyApplication {
+import android.app.Application;
+
+public class MyApplication extends Application {
+
 }
